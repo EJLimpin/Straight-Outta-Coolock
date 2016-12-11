@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parts>
+    <motherboard>
+        <name>
+             ASUS
+        </name>
+        <price>
+            money
+        </price>
+    </motherboard>
+    
+    <motherboard>
+        <name>
+            EVGA
+        </name>
+        <price>
+            1 million
+        </price>
+    </motherboard>
+    
+    <motherboard>
+        <name>
+            NVIDIA
+        </name>
+        <price>
+            hello
+        </price>
+    </motherboard>
+    
+    <motherboard>
+        <name>
+            crazy mtoherboard name  
+        </name>
+        <price>
+            howdy
+        </price>
+    </motherboard>
+    
+    <graphics>
+        <name>
+            Nvida 
+        </name>
+        <price>
+            hey
+        </price>
+    </graphics>
+    
+    <graphics>
+        <name>
+             AMD
+        </name>
+        <price>
+            2 million
+        </price>
+    </graphics>
+    
+    <graphics>
+        <name>
+            ASUS
+        </name>
+        <price>
+            46.237
+        </price>
+    </graphics>
+    
+    <graphics>
+        <name>
+            EVGA
+        </name>
+        <price>
+           lots 
+        </price>
+    </graphics>
+    
+    <ram>
+        <name>
+            2GB DDR4
+        </name>
+        <price>
+            of 
+        </price>
+    </ram>
+    
+    <ram>
+        <name>
+            4GB DDR4
+        </name>
+        <price>
+            money
+        </price>
+    </ram>
+    
+    <ram>
+        <name>
+            6GB DDR4
+        </name>
+        <price>
+            hey
+        </price>
+    </ram>
+    
+    <ram>
+        <name>
+            8GB DDR4
+        </name>
+        <price>
+            3 million
+        </price>
+    </ram>
+    
+    
+    
+    <keyboard>
+        <name>
+            Corsair
+        </name>
+    </keyboard>
+    
+    <keyboard>
+        <name>
+            Razor
+        </name>
+    </keyboard>
+    
+    <keyboard>
+       <name>
+            Cyborg
+       </name>
+    </keyboard>
+    
+    <keyboard>
+        <name>
+            Ducky
+        </name>
+    </keyboard>
+    
+    
+    <mouse>
+        <name>
+            Razor
+        </name>
+    </mouse>
+    
+    <mouse>
+        <name>
+            Logitech
+        </name>
+    </mouse>
+    
+    <mouse>
+        <name>
+            Roccat
+        </name>
+    </mouse>
+    
+    <mouse>
+        <name>
+          Steel series  
+        </name>
+    </mouse>
+    
+</parts>
